@@ -1,0 +1,9 @@
+var supportgyro = true;
+var DATA = [
+	{
+      "id":1,
+      "name":"Lobby",
+      "image":"../images/room/auditorium.jpg",
+      "annotation":[]
+   }
+];
